@@ -8,4 +8,4 @@
 ![alt text](https://github.com/pinpinsec/Anviz-Access-Control-Authentication-Bypass/blob/main/bypasss1.png)
 
 ### You can access the software management page by disabling JavaScript in your browser.
-![alt text](https://github.com/pinpinsec/Anviz-Access-Control-Authentication-Bypass/blob/main/bypass2.png)
+![alt text](https://github.com/pinpinsec/Anviz-Access-Control-Authentication-Bypass/blob/main/bypasss2.png)
