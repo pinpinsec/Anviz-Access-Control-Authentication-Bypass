@@ -1,5 +1,6 @@
-# CVE-2021-44270
-
+# CVE-2020-14064
+# Anviz-Access-Control-Authentication-Bypass
+https://nvd.nist.gov/vuln/detail/CVE-2020-14064
 
 ## Introduction :
 ###   The web login page of the device software is controlled for authentication. 
